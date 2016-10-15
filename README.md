@@ -11,3 +11,4 @@ PENJELASAN APLIKASI
     - Ketentuannya adalah nama minimal 5 karakter, alamat minimal 5 karakter, checkbox dan radio button harus dipilih, dan nomor handphone minimal 11 karakter
     
 SCREENSHOTS APLIKASI
+

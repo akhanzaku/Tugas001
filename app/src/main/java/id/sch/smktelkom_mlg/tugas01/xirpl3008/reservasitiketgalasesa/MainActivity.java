@@ -22,8 +22,8 @@ public class MainActivity extends AppCompatActivity {
     TextView tvHasil, tvJk;
     CheckBox cbSilver, cbGold, cbRuby;
     Spinner spJurusan, spKelas;
-    String arKelas[][] = {{"X-RPL1", "X-RPL2", "X-RPL3", "X-RPL4", "X-RPL5", "X-RPL6"},
-            {"X-TKJ1", "X-TKJ2", "X-TKJ3", "X-TKJ4", "X-TKJ5", "X-TKJ6"}};
+    String arKelas[][] = {{"X-RPL1", "X-RPL2", "X-RPL3", "X-RPL4", "X-RPL5", "X-RPL6", "X-RPL1", "XI-RPL2", "XI-RPL3", "XI-RPL4", "XI-RPL5", "XI-RPL6", "XII-RPL1", "XII-RPL2", "XII-RPL3", "XII-RPL4", "XII-RPL5"},
+            {"X-TKJ1", "X-TKJ2", "X-TKJ3", "X-TKJ4", "X-TKJ5", "X-TKJ6", "XI-TKJ1", "XI-TKJ2", "XI-TKJ3", "XI-TKJ4", "XI-TKJ5", "XII-TKJ1", "XII-TKJ2", "XII-TKJ3", "XII-TKJ4", "XII-TKJ5"}};
     ArrayList<String> listKelas = new ArrayList<>();
     ArrayAdapter<String> adapter;
 

@@ -11,9 +11,9 @@ PENJELASAN APLIKASI
     - Ketentuannya adalah nama minimal 5 karakter, alamat minimal 5 karakter, checkbox dan radio button harus dipilih, dan nomor handphone minimal 11 karakter
     
 SCREENSHOTS APLIKASI
-![Image 1](https://github.com/akhanzaku/Tugas001/blob/master/screenshot/1.jpg)
-![Image 2](https://github.com/akhanzaku/Tugas001/blob/master/screenshot/2.jpg)
-![Image 3](https://github.com/akhanzaku/Tugas001/blob/master/screenshot/3.jpg)
+![Image 1](https://github.com/akhanzaku/Tugas001/blob/master/1.jpg)
+![Image 2](https://github.com/akhanzaku/Tugas001/blob/master/2.jpg)
+![Image 3](https://github.com/akhanzaku/Tugas001/blob/master/3.jpg)
 
 IDENTITAS
 Nama : Aulia Khanza Ayu Purnantuti

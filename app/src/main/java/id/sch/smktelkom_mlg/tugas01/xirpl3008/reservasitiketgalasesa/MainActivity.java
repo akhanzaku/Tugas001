@@ -125,10 +125,10 @@ public class MainActivity extends AppCompatActivity {
         }
 
         if (alamat.isEmpty()) {
-            isialamat.setError("Nama harus diisi");
+            isialamat.setError("Alamat harus diisi");
             valid = false;
         } else if (alamat.length() < 5) {
-            isialamat.setError("Nama minimal 5 karakter");
+            isialamat.setError("Alamat minimal 5 karakter");
             valid = false;
         } else {
             isialamat.setError(null);
